@@ -15,12 +15,3 @@ My Last Works
 
 
  📫 You can reach me via info@jkdizains.lv or [LinkedIn](https://www.linkedin.com/in/janis-krastins/)
-
-<!---
-Jazekss/Jazekss is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
-
-
-- [x] #739
-- [ ] Text
