@@ -6,6 +6,7 @@ I am a designer, I strive for development and improvement. Climbing a rocky moun
 If you don’t give up, you can do anything!
 
 
+
 My Last Works
 
 ☑	 [C19 Statistics](/) - C19 Statistics data table
@@ -13,6 +14,7 @@ My Last Works
 ☑	 [Stocks](https://github.com/Jazekss/Finnhub.io) - Realtime quotes
 
 ☑	 [Login/Register](https://github.com/Jazekss/LoginRegister) - Simple Login and register
+
 
 
 
