@@ -1,5 +1,4 @@
 ### 👋 I’m Janis
-<br>
 
 
 I am a designer, I strive for development and improvement. Climbing a rocky mountain of programming, the path is not easy, but it is not impossible, I believe that a person learns all his life and knowledge is gained more and more.
