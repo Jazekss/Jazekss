@@ -7,7 +7,7 @@ If you don’t give up, you can do anything!
 
 My Last Works
 
-[  ][Friends app](/) - Friends application (not finished yet)
+[x][C19 Statistics](/) - C19 Statistics data table
 
 [x][Stocks](https://github.com/Jazekss/Finnhub.io) - Realtime quotes
 
