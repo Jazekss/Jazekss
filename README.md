@@ -8,7 +8,7 @@ If you don’t give up, you can do anything!
 
 My Last Works
 
-☑	 [C19 Statistics](/) - C19 Statistics data table
+☑	 [C19 Statistics](https://github.com/Jazekss/C19_Data) - C19 Statistics data table
 
 ☑	 [Stocks](https://github.com/Jazekss/Finnhub.io) - Realtime quotes
 
