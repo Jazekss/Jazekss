@@ -7,11 +7,11 @@ If you don’t give up, you can do anything!
 
 My Last Works
 
-[x][C19 Statistics](/) - C19 Statistics data table
+[x] [C19 Statistics](/) - C19 Statistics data table
 
-[x][Stocks](https://github.com/Jazekss/Finnhub.io) - Realtime quotes
+[x] [Stocks](https://github.com/Jazekss/Finnhub.io) - Realtime quotes
 
-[x][Login/Register](https://github.com/Jazekss/LoginRegister) - Simple Login and register
+[x] [Login/Register](https://github.com/Jazekss/LoginRegister) - Simple Login and register
 
 
  📫 You can reach me via info@jkdizains.lv or [LinkedIn](https://www.linkedin.com/in/janis-krastins/)
