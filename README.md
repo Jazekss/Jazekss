@@ -38,7 +38,7 @@ A fast, private file manager for Android, with a Windows companion app for movin
 - Link more phones and computers, then choose which folders each one sees
 - Every connection is end-to-end encrypted on your own Wi-Fi, with no cloud and no tracking
 
-[![Repository](https://img.shields.io/badge/Open-Repository-3d5afe?style=for-the-badge&logo=github)](https://github.com/Jazekss/Nova-FileManager)
+[![Download](https://img.shields.io/github/v/release/Jazekss/Nova-FileManager?label=Download&style=for-the-badge&color=3d5afe)](https://github.com/Jazekss/Nova-FileManager/releases/latest)
 
 ### 🛡️ [URLguard](https://github.com/Jazekss/URLguard)
 A free browser extension that warns you when a link only pretends to be your bank, e-health, the tax office, the post or another trusted brand.
