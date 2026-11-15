@@ -29,6 +29,27 @@ Shows where your disk space went.
 
 [![Repository](https://img.shields.io/badge/Open-Repository-6e40c9?style=for-the-badge&logo=github)](https://github.com/Jazekss/DataFilesMagic)
 
+### 📱 [Nova File Manager](https://github.com/Jazekss/Nova-FileManager)
+A fast, private file manager for Android, with a Windows companion app for moving files between your phone and PC.
+
+- Browse, search, recycle bin and an encrypted vault (PIN and fingerprint)
+- Real thumbnails, built-in image, video and audio viewers, ZIP, 7z and RAR
+- Pair your phone with your PC once; they reconnect on their own whenever Nova is open
+- Link more phones and computers, then choose which folders each one sees
+- Every connection is end-to-end encrypted on your own Wi-Fi, with no cloud and no tracking
+
+[![Repository](https://img.shields.io/badge/Open-Repository-3d5afe?style=for-the-badge&logo=github)](https://github.com/Jazekss/Nova-FileManager)
+
+### 🛡️ [URLguard](https://github.com/Jazekss/URLguard)
+A free browser extension that warns you when a link only pretends to be your bank, e-health, the tax office, the post or another trusted brand.
+
+- Works in Chrome, Edge, Brave, Opera and Firefox, including Firefox for Android
+- Flags or hides scam ads in Google, Bing and DuckDuckGo, and marks official sites with ✓
+- Catches look-alike domains, typos, homoglyphs and fake login pages
+- All checks run locally; links are sent only when you press "Report"
+
+[![Version](https://img.shields.io/github/v/tag/Jazekss/URLguard?label=Version&style=for-the-badge&color=2e7d32)](https://github.com/Jazekss/URLguard)
+
 ---
 
 ## ☕ Support
