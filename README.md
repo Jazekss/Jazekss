@@ -14,7 +14,9 @@ A fast, free and fully customizable replacement for File Explorer on Windows 10 
 - Tabs, split view and a breadcrumb address bar
 - Quick view (Space) and an image viewer, including HEIC and AVIF
 - Archives open like folders; files are extracted only when you drop them
-- Context menus you set up yourself, with commands such as "Open with…" and private browser windows
+- Build every right-click menu yourself by drag and drop, with your own apps and commands
+- Folder views: turn a folder into a page of project cards with logos, stats and an "Open in browser" button
+- Asks Windows for permission instead of "Access denied", and has its own folder and file picker
 - Instant search across the whole drive
 - Follows your Windows theme and accent color, in 9 languages
 
