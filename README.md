@@ -31,10 +31,12 @@ Shows where your disk space went.
 
 [![Repository](https://img.shields.io/badge/Open-Repository-6e40c9?style=for-the-badge&logo=github)](https://github.com/Jazekss/DataFilesMagic)
 
-### 📱 [Nova File Manager](https://github.com/Jazekss/Nova-FileManager)
+### <img src="https://raw.githubusercontent.com/Jazekss/Nova-FileManager/main/newIconNova.svg" width="22" alt=""> [Nova File Manager](https://github.com/Jazekss/Nova-FileManager)
 A fast, private file manager for Android, with a Windows companion app for moving files between your phone and PC.
 
 - Browse, search, recycle bin and an encrypted vault (PIN and fingerprint)
+- Files sorted by category, plus a cleaner for app caches and leftover junk
+- See your installed apps with size and last use, and uninstall several at once
 - Real thumbnails, built-in image, video and audio viewers, ZIP, 7z and RAR
 - Pair your phone with your PC once; they reconnect on their own whenever Nova is open
 - Link more phones and computers, then choose which folders each one sees
